@@ -35,5 +35,3 @@ This Privacy Policy describes how omokolade hunpatin ("we", "us", or "our") hand
 9. Changes to this Privacy Policy
 - We may update this policy from time to time. If we make material changes, we will post an updated effective date at the top of this page.
 
-Contact
-If you have questions or concerns about this Privacy Policy, contact us at: hunpatindh@gmail.com
