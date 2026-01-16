@@ -1,4 +1,6 @@
-
+---
+permalink: /privacy-policy/
+---
 
 Privacy Policy for LexiDrop
 
