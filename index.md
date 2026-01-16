@@ -39,4 +39,5 @@ When reporting a bug, please include:
 - App version
 - Steps to reproduce the issue
 
+@ monnydavid0@gmail.com
 ---
