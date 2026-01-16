@@ -29,9 +29,6 @@ This Privacy Policy describes how omokolade hunpatin ("we", "us", or "our") hand
 7. Children’s Privacy
 - The Service is not intended for children under 13 (or the minimum age in your jurisdiction). We do not knowingly collect personal information from children under that age. If you believe we have collected such information, contact us.
 
-8. Your Rights
-- If you believe LexiDrop has collected personal data about you, or if you have any questions about this policy, contact us at hunpatindh@gmail.com and we will respond.
-
-9. Changes to this Privacy Policy
+8. Changes to this Privacy Policy
 - We may update this policy from time to time. If we make material changes, we will post an updated effective date at the top of this page.
 
